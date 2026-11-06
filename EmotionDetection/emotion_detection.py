@@ -44,3 +44,4 @@ def emotion_detector(text_to_analyse):
         'sadness': sadness_score,
         'dominant_emotion': dominant_emotion
     }
+
